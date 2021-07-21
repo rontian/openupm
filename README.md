@@ -74,25 +74,9 @@ OpenUPM is an independent project with its ongoing development made possible ent
 - [Exploring other donation options](https://openupm.com/support/)
 - [Exploring region CN donation options](https://openupm.cn/zh/support/)
 
-<h3 align="center">Silver Sponsors</h3>
-
-<!--silver start-->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://developer.jdcloud.com/?utm_source=PMM_openupm&utm_medium=Banner&utm_campaign=ReadMore&utm_term=NA" target="_blank">
-          <img height="60px" src="https://raw.githubusercontent.com/openupm/openupm/master/docs/.vuepress/public/images/brands/jdcloud/EN-Color-Horizontal-2.png">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<!--silver end-->
-
+<!--bronze start
 <h3 align="center">Bronze Sponsors</h3>
 
-<!--bronze start-->
 <table>
   <tbody>
     <tr>
@@ -104,7 +88,7 @@ OpenUPM is an independent project with its ongoing development made possible ent
     </tr>
   </tbody>
 </table>
-<!--bronze end-->
+bronze end-->
 
 <h3 align="center">Service Sponsors</h3>
 
